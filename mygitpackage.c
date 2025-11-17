@@ -3,8 +3,8 @@
 
 int main (int argc, char *argv[]) {
 
-printf("GEI1089 - 2025 : -- My GIT package application Hello world! --\n");
-printf("Hi I am in GEI1089 \n");
+printf("GEI1089 : -- My GIT package application Hello world! --\n");
+
 return 0;
 
 }
