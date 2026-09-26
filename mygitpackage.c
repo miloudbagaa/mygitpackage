@@ -3,7 +3,7 @@
 
 int main (int argc, char *argv[]) {
 
-  printf("GEI1089 - 2026 : -- v5.0 updated by GIT package application Hello world ! --\n");
+  printf("GEI1089 - 2026 : -- v6.0 updated by GIT package application Hello world ! --\n");
 
   return 0;
   
